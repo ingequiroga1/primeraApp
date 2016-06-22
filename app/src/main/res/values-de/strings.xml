@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">erste App</string>
+    <string name="titulo_app">Meine erste App</string>
+    <string name="Msginicio">Willkommen</string>
+    <string name="boton">Betreten</string>
+</resources>

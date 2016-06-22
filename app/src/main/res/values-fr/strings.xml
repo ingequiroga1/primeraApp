@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">premiereapp</string>
+    <string name="titulo_app">Mon Premier App</string>
+    <string name="Msginicio">Bienvenue</string>
+    <string name="boton">Entrer</string>
+</resources>
